@@ -3,8 +3,8 @@ An optimized In-Memory Key-Value Storage Software built in C++
 
 ## How to run the code ##
    ```
-   git clone https://github.com/sshreevignesh/In-Memory-Key-Value-Storage
-   cd In-Memory-Key-Value-Storage
+   git clone https://github.com/sshreevignesh/In-Memory-Key-Value-Storage.git
+   cd In-Memory-Key-Value-Storage/
    g++ benchmark.cpp
    ```
    
